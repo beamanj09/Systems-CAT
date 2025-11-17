@@ -21,4 +21,6 @@ this is both the Lifting Mechanisms and the Movement Mechanisms
 - Lifting Mechanisms: four motors (DC or Servo) connecting to four gears to connect to the main shaft for movenment.
 - There are also Bareings to minimise friction / any forces that will affect movement/lifting 
 
-
+# Potential Troubles with the Project
+- 3D printing troubles for both the main shaft, gears,
+- programming and how to connect the motors/servo's that doesnt use more than one channel (there is a possability that i need to have the servos on 2 difrent channels since of how i have done the gearing for more torque)
