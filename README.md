@@ -8,7 +8,7 @@ this is for my Systems CAT, im not exactly sure if i can use Github as my portfo
 
 there will be four motors and four gears conecting to the main shaft, im not exactly sure on what forms of motors i can use for the lifting mechanism, there are two bareings for the main shaft to minimise friction / any forces that will affect the main shaft. 
 
-# Internals - Movememt Mechanism
+# Internals - Movement Mechanism
 ![WIN_20251117_11_48_56_Pro](https://github.com/user-attachments/assets/6f080fba-0943-4214-9a80-d50cf649bde3)
 
 there are two DC motors for the movement of the robot, there are again two bareing for the movement to minimise friction / any forces that will affect the movement. the movement (dc motors) will connect to the main motor board so i am able to connect movement to where, go left - left DC motor goes backward - right DC motor goes forward - like how a tank moves
@@ -20,3 +20,5 @@ this is both the Lifting Mechanisms and the Movement Mechanisms
 - Movement Mechanisms: tank form of movemement. the rear movement (for balance) i will be using a swivel wheel or a ball for the movement
 - Lifting Mechanisms: four motors (DC or Servo) connecting to four gears to connect to the main shaft for movenment.
 - There are also Bareings to minimise friction / any forces that will affect movement/lifting 
+
+
