@@ -24,3 +24,10 @@ this is both the Lifting Mechanisms and the Movement Mechanisms
 # Potential Troubles with the Project
 - 3D printing troubles for both the main shaft, gears,
 - programming and how to connect the motors/servo's that doesnt use more than one channel (there is a possability that i need to have the servos on 2 difrent channels since of how i have done the gearing for more torque)
+
+# materail list
+- bareings x4 (moddel unsure of)
+- wheels x2
+- motors for wheels x2 (model unsure of)
+- motors for lifting mechanism x4 (model unsure of)
+- 
