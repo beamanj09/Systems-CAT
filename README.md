@@ -30,4 +30,10 @@ this is both the Lifting Mechanisms and the Movement Mechanisms
 - wheels x2
 - motors for wheels x2 (model unsure of)
 - motors for lifting mechanism x4 (model unsure of)
+- batteries
+
+# things of unsure of
+- controller (bluetooth)
+- types of fillament
+- weight of the other bots
 - 
