@@ -26,11 +26,12 @@ this is both the Lifting Mechanisms and the Movement Mechanisms
 - programming and how to connect the motors/servo's that doesnt use more than one channel (there is a possability that i need to have the servos on 2 difrent channels since of how i have done the gearing for more torque)
 
 # materail list
-- bareings x4 (moddel unsure of)
+- bareings x4 : https://www.totaltools.com.au/60585-econocut-12-7mm-od-4-8mm-id-router-bit-ball-bearing-eyb-4
 - wheels x2
-- motors for wheels x2 (model unsure of)
-- motors for lifting mechanism x4 (model unsure of)
+- motors for wheels x2 : 12,000 rpm motors from storage
+- motors for lifting mechanism x4 12,000 : rpm motor from storage
 - batteries
+- main shaft for the lifting mechanism : https://www.bunnings.com.au/metal-mate-12mm-1m-aluminium-round-solid_p0427752
 
 # things of unsure of
 - controller (bluetooth)
