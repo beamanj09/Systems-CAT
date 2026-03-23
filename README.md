@@ -1,6 +1,8 @@
 # Systems-CAT
 thrower robot (mc yeetus deletus) is also currently in development
 
+group mates: Jaxon Beaman , Chase turner (zia) , Cameron wregg , Jake Burch
+
 this is for my Systems CAT, im not exactly sure if i can use Github as my portfolio, but this is for progress log currently
 
 # Internals - Lifting Mechanism
@@ -8,12 +10,12 @@ this is for my Systems CAT, im not exactly sure if i can use Github as my portfo
 
 there will be four motors and four gears conecting to the main shaft, im not exactly sure on what forms of motors i can use for the lifting mechanism, there are two bareings for the main shaft to minimise friction / any forces that will affect the main shaft. 
 
-# Internals - Movement Mechanism
+# Internals - Movement Mechanism (CHANGED)
 ![WIN_20251117_11_48_56_Pro](https://github.com/user-attachments/assets/6f080fba-0943-4214-9a80-d50cf649bde3)
 
 there are two DC motors for the movement of the robot, there are again two bareing for the movement to minimise friction / any forces that will affect the movement. the movement (dc motors) will connect to the main motor board so i am able to connect movement to where, go left - left DC motor goes backward - right DC motor goes forward - like how a tank moves
 
-# Internals - Movement and Lifting Mechanism's
+# Internals - Movement and Lifting Mechanism's (CHANGED)
 ![WIN_20251117_12_06_49_Pro](https://github.com/user-attachments/assets/a80e494c-0d4c-4167-b03a-b2570d87360b)
 
 this is both the Lifting Mechanisms and the Movement Mechanisms
@@ -37,4 +39,6 @@ this is both the Lifting Mechanisms and the Movement Mechanisms
 - controller (bluetooth)
 - types of fillament
 - weight of the other bots
-- 
+
+ # robotic update:
+ found out that the motors in the material list wont work for the lifting mechanism, the lifting mechanism will be changed to a spinning mechanism, i will make a drawing change when i have my book back to draw the mechanism. 
