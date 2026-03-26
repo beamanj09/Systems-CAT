@@ -1,16 +1,16 @@
 # Systems-CAT
-thrower robot (mc yeetus deletus) is also currently in development
+thrower robot (mc yeetus deletus) is also currently in development 
 
-group mates: Jaxon Beaman , Chase turner (zia) , Cameron wregg , Jake Burch
+group mates: Jaxon Beaman , Chase Turner (zia) , Cameron Wregg , Jake Burch
 
 this is for my Systems CAT, im not exactly sure if i can use Github as my portfolio, but this is for progress log currently
 
-# Internals - Lifting Mechanism
+# Internals - Lifting Mechanism (CHANGED)
 ![WIN_20251117_11_38_10_Pro](https://github.com/user-attachments/assets/549d8ad1-a454-4f7a-976c-230ac7e8c11c)
 
 there will be four motors and four gears conecting to the main shaft, im not exactly sure on what forms of motors i can use for the lifting mechanism, there are two bareings for the main shaft to minimise friction / any forces that will affect the main shaft. 
 
-# Internals - Movement Mechanism (CHANGED)
+# Internals - Movement Mechanism (SUBJECT TO BE CHANGED)
 ![WIN_20251117_11_48_56_Pro](https://github.com/user-attachments/assets/6f080fba-0943-4214-9a80-d50cf649bde3)
 
 there are two DC motors for the movement of the robot, there are again two bareing for the movement to minimise friction / any forces that will affect the movement. the movement (dc motors) will connect to the main motor board so i am able to connect movement to where, go left - left DC motor goes backward - right DC motor goes forward - like how a tank moves
@@ -42,3 +42,17 @@ this is both the Lifting Mechanisms and the Movement Mechanisms
 
  # robotic update:
  found out that the motors in the material list wont work for the lifting mechanism, the lifting mechanism will be changed to a spinning mechanism, i will make a drawing change when i have my book back to draw the mechanism. 
+
+ # liftng change to rotational change: base idea : chance it will change to another design
+ ![WIN_20260326_11_02_41_Pro](https://github.com/user-attachments/assets/172e08b6-cb01-4471-9a97-f9653af3f8d4)
+
+ whats inside in the blue circle is the MRB (main rotational block), next to the MRB is what it would look like, there is a chance that it will be changed to a difrent design with the movement design also. im not sure on how i want it to look, the spinning mechanic that connnects to the MRB, because the one that i drew in the image above is to go around the bot, i might have a look on how i want to change the new design too.
+
+ # client letter (in design and will be subjected to be changed)
+hello, sir/maam/person,
+
+i would like to request a robot to participate in robot wars. i would like for the weapon system is that there is a spinning blade (with a deadmans switch as a safety measure). the spinning blade should be above the movement mechanism, the spinning blade should be 2 or 3 centimeters away from the main body for an effective way to damage the one im versing with. i dont mind what the movement mechanism will be, but it should be able to move in any form that isnt with the usage of the blade but the wheels should be on the inside and there should be a small grove so that a lifting robot wont lift my robot
+
+# evaluation letter (SUBJECT TO CHANGE)
+ 
+ 
