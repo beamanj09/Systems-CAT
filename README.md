@@ -48,6 +48,22 @@ this is both the Lifting Mechanisms and the Movement Mechanisms
 
  whats inside in the blue circle is the MRB (main rotational block), next to the MRB is what it would look like, there is a chance that it will be changed to a difrent design with the movement design also. im not sure on how i want it to look, the spinning mechanic that connnects to the MRB, because the one that i drew in the image above is to go around the bot, i might have a look on how i want to change the new design too.
 
+ # constraints and considerations
+ constraints:
+ - budget of $50 per group (im not sure)
+ - safety standards (not kill a person, not damage anyothers equipment like a EMP)
+ - deadline: unsure
+ - resorces: workshop storage / buying equipment/materials
+considerations:
+ - something that damages the opponents bots and makes sure its out of service
+ - win the compertition
+ - 
+ # current ideas:
+ - flipper bot
+ - spinning bot
+ - drill bot
+ - (there are others, i forgot and its in my book)
+ 
  # client letter (in design and will be subjected to be changed)
 hello, sir/maam/person,
 
@@ -56,3 +72,5 @@ i would like to request a robot to participate in robot wars. i would like for t
 # evaluation letter (SUBJECT TO CHANGE)
  
 # milestones 
+
+
