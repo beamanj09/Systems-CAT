@@ -54,10 +54,11 @@ this is both the Lifting Mechanisms and the Movement Mechanisms
  - safety standards (not kill a person, not damage anyothers equipment like a EMP)
  - deadline: unsure
  - resorces: workshop storage / buying equipment/materials
+
 considerations:
  - something that damages the opponents bots and makes sure its out of service
  - win the compertition
- - 
+
  # current ideas:
  - flipper bot
  - spinning bot
