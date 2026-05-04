@@ -73,5 +73,9 @@ i would like to request a robot to participate in robot wars. i would like for t
 # evaluation letter (SUBJECT TO CHANGE)
  
 # milestones 
-
-
+- made bot idea list (commencement)
+- made a design for a flipper robot (had to be changed)
+- made a spinning robot
+- made part list (1st or 2nd week of school)
+- made this portfolio
+- (subject to change over time because there will be new updates later on)
